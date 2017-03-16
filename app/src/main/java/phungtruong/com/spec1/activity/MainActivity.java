@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Employee e1 = new Employee("e01","PhungTruong115",12);
         Employee e2 = new Employee("e02","PhungTruong024", 13);
+        Employee e3 = new Employee("e03", "PhungTruong3213", 14);
     }
 }
