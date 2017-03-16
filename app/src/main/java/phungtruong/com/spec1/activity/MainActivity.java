@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Employee e1 = new Employee("e01","Phung",12);
+        Employee e1 = new Employee("e01","PhungTruong115",12);
     }
 }
